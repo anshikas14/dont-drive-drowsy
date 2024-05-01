@@ -2,7 +2,7 @@
 
 ## Idea and Inspiration
 
-This webapp is inspired from [Driver Drowsiness Detection with OpenCV](https://www.youtube.com/watch?v=Q23K7G1gJgY).
+This webapp alerts you when you feel sleepy while driving and alerts you using sound and red screen alarm when your eyes get closed. 
 
 ## Tools used
 
